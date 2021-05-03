@@ -1,4 +1,4 @@
-/** @format */
+
 
 * {
 	user-select: none;
@@ -8,7 +8,7 @@ img {
 	position: absolute;
 	top: 40%;
 	left: 50%;
-	/* transform: translate(-50%, -50%); */
+
 }
 
 .scenery {
@@ -130,7 +130,7 @@ body {
 }
 
 .wrapper {
-	/* position: relative;
+	/*position: relative;
 	width: 100%;
 	height: 120%;
 	overflow: hidden; */
